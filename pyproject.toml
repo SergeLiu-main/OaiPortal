@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools >= 64.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+requires-python = ">= 3.12"
+name = "OaiPortal"
+version = "0.0.0"
+description = "A self-using client of openai-like api and provides a range of tools for custom instance."
+
+dependencies = [
+    "openai>=3.19.2",
+    "httpx"
+]
+
+authors = [
+    {"name" = "Serge Liu", "email" = "sergewithteto@gmail.com"}
+]
+
+license = "MIT"
+readme = "README.md"
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "black>=24.0.0"
+]
+
+[tool.pytest.ini_options]
+addopts = "-ra -q"
+testpaths = "tests"
+
+[tool.black]
+line-length = 108
+target-version = ["py312"]

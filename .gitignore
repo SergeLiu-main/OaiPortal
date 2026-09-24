@@ -1,0 +1,7 @@
+*pycache*
+*.buildfile
+*.prev
+*.pre.md
+*.pre.py
+*.exe
+*.o
