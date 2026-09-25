@@ -1,6 +1,0 @@
-openai>=3.19.2
-httpx
-
-[dev]
-pytest>=8.0.0
-black>=24.0.0

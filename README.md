@@ -16,7 +16,7 @@ This is the project-`oaiForm-api-cli`, also `OaiPortal`, a package for developer
 
 ### minimal
 
-1. we use (quite) a few modules (only `openai`, `httpx`)
+1. we use (quite) a few modules (only `openai`)
 2. we use `Minimalist Design`
 
 ### fastest

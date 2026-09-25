@@ -1,0 +1,3 @@
+ID_FLAG_LEN = 12  # id（用于网络请求）的长度
+MINIMUM_REQ_TIMEOUT = 1.0
+MAX_REQ_TIMEOUT = 99.0

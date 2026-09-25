@@ -1,7 +1,0 @@
-README.md
-pyproject.toml
-OaiPortal.egg-info/PKG-INFO
-OaiPortal.egg-info/SOURCES.txt
-OaiPortal.egg-info/dependency_links.txt
-OaiPortal.egg-info/requires.txt
-OaiPortal.egg-info/top_level.txt

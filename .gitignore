@@ -5,3 +5,4 @@
 *.pre.py
 *.exe
 *.o
+*egg-info*

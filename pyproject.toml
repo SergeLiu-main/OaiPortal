@@ -9,12 +9,13 @@ version = "0.0.0"
 description = "A self-using client of openai-like api and provides a range of tools for custom instance."
 
 dependencies = [
-    "openai>=3.19.2",
-    "httpx"
+    "openai>=3.19.2"
 ]
 
 authors = [
-    {"name" = "Serge Liu", "email" = "sergewithteto@gmail.com"}
+    {"name" = "Serge Liu", "email" = "sergewithteto@gmail.com"},
+    {"name" = "", "email" = "haoranh496@gmail.com"}, 
+    {"name" = "Mio", email = "3584888076@qq.com"}
 ]
 
 license = "MIT"
