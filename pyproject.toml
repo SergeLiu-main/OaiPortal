@@ -14,12 +14,12 @@ dependencies = [
 
 authors = [
     {"name" = "Serge Liu", "email" = "sergewithteto@gmail.com"},
-    {"name" = "", "email" = "haoranh496@gmail.com"}, 
+    {"name" = "Haoran Huang", "email" = "haoranh496@gmail.com"}, 
     {"name" = "Mio", email = "3584888076@qq.com"}
 ]
 
 license = "MIT"
-readme = "README.md"
+readme = "package_readme.md"
 
 [project.optional-dependencies]
 dev = [
