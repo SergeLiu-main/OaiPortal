@@ -2,7 +2,8 @@
 
 * create by Serge
 * build by team
-* no ai content
+* no ai content  
+~~* a succeeder of project [BrainBridge](https://github.com/SergeLiu-main/BrainBridge) but without ai~~
 
 This is the project-`oaiForm-api-cli`, also `OaiPortal`, a package for developers who are building a openai-like-api-based project, a easy script for users who are finding a most useful and minimal ai cli (based on your personal api token, we can ensure that will never leak it)
 
